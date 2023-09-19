@@ -1,6 +1,6 @@
 # pandas-challenge
 
-created and manipulated Pandas DataFrames to analyze school and standardized test data.
+Created and manipulated Pandas DataFrames to analyze school and standardized test data.
 
 The below output is given in the jupyter notebook:
 
